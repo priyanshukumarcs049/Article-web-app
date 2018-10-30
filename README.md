@@ -1,1 +1,1 @@
-#Python-Django-Reactjs-Sosio-Task
+#Python-Django-Reactjs
